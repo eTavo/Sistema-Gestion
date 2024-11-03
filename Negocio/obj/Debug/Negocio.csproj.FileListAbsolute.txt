@@ -1,0 +1,11 @@
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Negocio.dll
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Negocio.pdb
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Datos.dll
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Entidades.dll
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Datos.pdb
+C:\Users\emman\source\repos\Sistema\Negocio\bin\Debug\Entidades.pdb
+C:\Users\emman\source\repos\Sistema\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\emman\source\repos\Sistema\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\Sistema\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\emman\source\repos\Sistema\Negocio\obj\Debug\Negocio.dll
+C:\Users\emman\source\repos\Sistema\Negocio\obj\Debug\Negocio.pdb

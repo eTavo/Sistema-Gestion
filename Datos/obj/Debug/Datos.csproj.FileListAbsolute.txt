@@ -1,0 +1,9 @@
+C:\Users\emman\source\repos\Sistema\Datos\bin\Debug\Datos.dll
+C:\Users\emman\source\repos\Sistema\Datos\bin\Debug\Datos.pdb
+C:\Users\emman\source\repos\Sistema\Datos\bin\Debug\Entidades.dll
+C:\Users\emman\source\repos\Sistema\Datos\bin\Debug\Entidades.pdb
+C:\Users\emman\source\repos\Sistema\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\emman\source\repos\Sistema\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\Sistema\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\emman\source\repos\Sistema\Datos\obj\Debug\Datos.dll
+C:\Users\emman\source\repos\Sistema\Datos\obj\Debug\Datos.pdb

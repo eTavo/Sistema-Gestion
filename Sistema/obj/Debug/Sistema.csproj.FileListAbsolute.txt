@@ -1,0 +1,17 @@
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Entidades.dll
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Negocio.dll
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Datos.dll
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Entidades.pdb
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Negocio.pdb
+C:\Users\emman\source\repos\Sistema\Sistema\bin\Debug\Datos.pdb
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.Up2Date
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\emman\source\repos\Sistema\Sistema\obj\Debug\Sistema.pdb
