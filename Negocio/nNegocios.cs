@@ -36,8 +36,8 @@ namespace Negocio
             // Asigno al objeto los datos de la capa de presentacion
             eRegistroUsuario usuario = new eRegistroUsuario();
             usuario.Nombre = nombre;
-            usuario.Email = email;
             usuario.Apellido = apellido;
+            usuario.Email = email;
             usuario.Pass = pass;
 
             // Guardo los datos del objeto en mi capa de datos
